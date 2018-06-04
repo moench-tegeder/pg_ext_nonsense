@@ -1,0 +1,5 @@
+# extension "Demo PostgreSQL extension versions - Exhibit B"
+comment = 'Demo PostgreSQL extension versions - Exhibit B'
+default_version = '1_2'
+relocatable = false
+schema = 'public'
